@@ -1,0 +1,5 @@
+**/.DS_Store
+**/foundry-out
+**/cache
+**/DS_Store
+.env
